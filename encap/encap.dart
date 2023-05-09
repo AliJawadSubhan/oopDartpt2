@@ -1,3 +1,5 @@
+import 'facebook.dart';
+
 void main(List<String> args) {
   FacebookUser ali = FacebookUser('Ali');
 
